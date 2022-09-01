@@ -4,6 +4,8 @@ This is a smart contract created on Ethereum Blockchain that sells lottery ticke
 # Deployment
 Deployed the contract on Rinkeby Ethereum Testnet.</br> 
 The contract details can be seen at Etherscan using the following transaction hash: **0x267f2d0b213d5be0f14a6bcc01215243dc58b2dded68c0c1aa03e98263795fc8**
+</br>
+You can view the transaction details by clicking on this link: https://rinkeby.etherscan.io/tx/0x267f2d0b213d5be0f14a6bcc01215243dc58b2dded68c0c1aa03e98263795fc8
 
 # Execution
 Requirements: To execute the contract you must have a Metamask wallet and RinkebyETH on Rinkeby Ethereum Testnet network.</br>
